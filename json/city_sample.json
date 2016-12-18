@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Brest",
+        "lat": 48.4,
+        "lon": -4.483333
+    },
+    {
+        "name": "Bordeaux",
+        "lat": 44.833333,
+        "lon": -0.566667
+    },
+    {
+        "name": "Grenoble",
+        "lat": 45.166667,
+        "lon": 5.716667
+    },
+    {
+        "name": "Lille",
+        "lat": 50.633333,
+        "lon": 3.066667
+    },
+    {
+        "name": "Lyon",
+        "lat": 45.75,
+        "lon": 4.85
+    },
+    {
+        "name": "Marseille",
+        "lat": 43.3,
+        "lon": 5.4
+    },
+    {
+        "name": "Nantes",
+        "lat": 47.216667,
+        "lon": -1.55
+    },
+    {
+        "name": "Orléans",
+        "lat": 47.916667,
+        "lon": 1.9
+    },
+    {
+        "name": "Paris",
+        "lat": 48.866667,
+        "lon": 2.333333
+    },
+    {
+        "name": "Rennes",
+        "lat": 48.083333,
+        "lon": -1.683333
+    },
+    {
+        "name": "Rouen",
+        "lat": 49.433333,
+        "lon": 1.083333
+    },
+    {
+        "name": "Strasbourg",
+        "lat": 48.583333,
+        "lon": 7.75
+    },
+    {
+        "name": "Toulouse",
+        "lat": 43.6,
+        "lon": 1.433333
+    }
+]
